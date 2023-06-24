@@ -1,16 +1,6 @@
-# untitled2
+# flutterquizapp
 
-A new Flutter project.
+Esse é um aplicativo flutter de quiz, o usuário escolhe um quiz e responde as perguntas. 
+Há login do usuario usando firebase e é arazenado na firestore as perguntas que foram respondidas, bem como quantos pontos o usuário fez.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is a flutter quiz app, the user chooses a quiz and answers the questions. There is a user login using firebase and the firestore stores the questions that were answered, as well as how many points the user scored.
