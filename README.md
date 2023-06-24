@@ -9,3 +9,4 @@ This is a flutter quiz app, the user chooses a quiz and answers the questions. T
 ![paginainicial2](https://github.com/guilherme8portes/flutterquizapp/assets/137653762/e4a16f88-0728-400b-a80b-bc5dc1aba142)
 ![paginadeconfiguracoes3](https://github.com/guilherme8portes/flutterquizapp/assets/137653762/3d36d886-113c-48f9-a429-579db874c2da)
 ![paginadepontos](https://github.com/guilherme8portes/flutterquizapp/assets/137653762/5144735c-0728-4b52-83c0-2c20cd234139)
+![quiz_acerto](https://github.com/guilherme8portes/flutterquizapp/assets/137653762/98b4602e-f305-4764-a699-c9bbf3d8185e)
