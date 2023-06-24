@@ -1,1 +1,5 @@
-
+Nessa versão apenas o quizbrasil está disponivel, embora os outros quizes estejam 80% prontos, ainda é necessário fazer ajustes
+de layout(aplicar mediaquery para não gerar erro de renderflex em dispositivos com tela pequena), como foi feito na pagina:
+'quiz_brasil_1'. também é necessario ajustar as cores e as letras usadas nessas paginas, conforme foi feito na 'quiz_brasil_1'.
+Além disso não foi finalizada a pagina que gera o formulário que deve ser preenchido pelo usuário caso ele
+opte por fazer o login/criar conta usando email.
